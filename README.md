@@ -10,3 +10,13 @@ Site que Utilizei para pegar essa imagem que esta do Lado do formulario: (https:
 ![README.md](https://github.com/MatheusdeSouzaSilva70/Formulario-de-Cadastro-Responsivo/blob/main/Projet/Formulario%20de%20cadastro.png)
 
 
+## Recursos
+- Responsivo 100%
+
+## Links:
+- Projeto:
+- Portfolio:https://matheusdesouzasilva70.github.io/Portfolio/
+- LinkedIn:https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
+- Site que Utilizei para pegar essa imagem que esta do Lado do formulario: (https://undraw.co/illustrations).
+## Autor:
+**Matheus de Souza Silva**
