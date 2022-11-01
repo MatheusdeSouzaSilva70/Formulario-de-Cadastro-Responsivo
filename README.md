@@ -1,4 +1,4 @@
-# Formulrio de Cadastro
+# Formulario de Cadastro
 
 
 ### Nesse projeto decidir fazer uma Tela de Formulario de Cadastro Responsivo.
